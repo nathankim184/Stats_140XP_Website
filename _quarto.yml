@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Nathan Kim"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Landing Page
+      - about.qmd
+      - href: projects.qmd
+        text: Projects
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
+

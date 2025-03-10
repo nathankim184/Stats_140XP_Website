@@ -1,0 +1,34 @@
+---
+title: "Nathan Kim"
+about:
+  template: broadside
+  image: Headshot.jpg
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/nathan-kim-b54b8324a/
+    - icon: github
+      text: Github
+      href: https://github.com/nathankim184
+    - icon: gmail
+      text: Email
+      url: "mailto:nathankim184@gmail.com"
+---
+
+Nathan Kim is a third year student at the University of California, Los Angeles (UCLA). On his free time, he likes to go out and enjoy nature and spending time with his friends and family
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+BS in Statistics and Data Science | Minor in Accounting
+Sept 2022 - June 2026
+
+## Recent Experiences
+
+PricewaterhouseCoopers (PwC) | Digital Assurance & Transparency Intern | June 2025 - August 2025
+
+Federal Reserve of Kansas City | Analyst Intern | June 2024 - August 2025
+
+Bruin Sports Analytics | Financial Head, Data Consultant | Sept 2023 - Current
+
+[Resume](/NathanKim_Resume.pdf)

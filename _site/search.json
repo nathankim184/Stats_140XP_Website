@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathan Kim",
+    "section": "",
+    "text": "Nathan Kim is a third year student at the University of California, Los Angeles (UCLA). On his free time, he likes to go out and enjoy nature and spending time with his friends and family"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Nathan Sunho Kim"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nathan Kim",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA BS in Statistics and Data Science | Minor in Accounting Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Nathan Kim",
+    "section": "Experience",
+    "text": "Experience\nPricewaterhouseCoopers (PwC) | Digital Assurance & Transparency Intern | June 2025 - August 2025\nFederal Reserve of Kansas City | Analyst Intern | June 2024 - August 2025\nBruin Sports Analytics | Financial Head, Data Consultant | Sept 2023 - Current\nResume"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project 2 (Stuff+)\n\nSept 2023 - Feb 2024\nDescription: Using the UCLA’s baseball team’s data set, we looked into and calculated the Stuff+ of the pitchers of the UCLA baseball team. Stuff+ quantifies the \"nastiness\" of a given pitch \"based on characteristics like velocity and movement\" to predict its effectiveness. It was graded on a 0-100 scale, with standard deviation 50. We also had to account for various movement statistics provided by Trackman and sort pitches into buckets by type (i.e. fastballs, breaking balls, and offspeed)\nUsed R and Python / sklearn, pandas, numpy, xgboost / data analysis and data manipulation\nResults: pitches can keep the movement profile on sliders while throwing it at a higher velocity or adding more sweep\n\n\n\nProject 3 (Pritikin Diet)\n\nDec 2021 - Jan 2022\n\n\n\nResearch Topic: Effectiveness of the Pritikin Diet on the physique of Athletes\nDescription: As sports become increasingly competitive, many athletes strive to improve and enhance their performance in their respective sports. As a result, many athletes have turned to dietary meals to possibly improve their overall performance and nutrition. While diets have been used to lose weight or fat, certain diets arguably have been used to enhance sport performance. Nevertheless, there are still many unanswered questions regarding the positive effects of certain diets on athletic performances (Grandjean 1997). Some notable diets for athletes are the raw food diet, gluten-free diet, fast diet, and paleo diet (Rosenbloom 2014). However, the Pritikin diet has not been thoroughly researched about its effects on the overall performance of an athlete. There have been many published studies on the effects of the various different types of diets on sports like football, soccer, and basketball. However, an analysis on the effect of the Pritikin diet on youth competitive swimmers, a muscle enduring sport (Clarke 2013), has not been conducted. This research examines the Pritikin diet and its effects on the performance of high school swimmers.\nUsed research data / dietary understanding / data and experimental analysis\nWorked with Professor Beirne (MA, PHD and Post Doctorate from NYU and WashU)\nResult: The Pritikin Diet had a strong correlation with the physique of athletes"
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Nathan Kim",
+    "section": "Resume",
+    "text": "Resume\nResume"
+  },
+  {
+    "objectID": "index.html#recent-experiences",
+    "href": "index.html#recent-experiences",
+    "title": "Nathan Kim",
+    "section": "Recent Experiences",
+    "text": "Recent Experiences\nPricewaterhouseCoopers (PwC) | Digital Assurance & Transparency Intern | June 2025 - August 2025\nFederal Reserve of Kansas City | Analyst Intern | June 2024 - August 2025\nBruin Sports Analytics | Financial Head, Data Consultant | Sept 2023 - Current\nResume"
+  },
+  {
+    "objectID": "about.html#email",
+    "href": "about.html#email",
+    "title": "About",
+    "section": "Email:",
+    "text": "Email:\nnathankim184@gmail.com"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nCollege (Los Angeles, CA): University of California, Los Angeles | Major in Statistics and Data Science | Minor in Accounting | GPA: 3.8"
+  },
+  {
+    "objectID": "about.html#experiences",
+    "href": "about.html#experiences",
+    "title": "About",
+    "section": "Experiences:",
+    "text": "Experiences:"
+  }
+]
